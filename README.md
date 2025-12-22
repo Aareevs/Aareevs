@@ -5,10 +5,10 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/aareev-srinivasan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://skillicons.dev/icons?i=all)" alt="LinkedIn" />
   </a>
   <a href="mailto:aareevs@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="[https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://skillicons.dev/icons?i=all)" alt="Email" />
   </a>
 </div>
 
@@ -26,9 +26,9 @@
 
 ### 👨‍💻 **About Me**
 
-<table>
+<table align="center">
   <tr>
-    <td width="60%" valign="top">
+    <td width="100%" valign="top">
       <ul>
         <li>🎓 <b>First year Engineering Student</b></li>
         <li>💻 Passionate about <b>Full-Stack Development</b></li>
@@ -45,11 +45,15 @@
 
 ### 🚀 **Featured Projects**
 
-|          **Project**          |                   **Description**                    |                                 **Link**                                 |
-| :---------------------------: | :--------------------------------------------------: | :----------------------------------------------------------------------: |
-|       ⏳ **ChronoTask**       | A productivity focused task manager for hackathons.  |  [Use ChronoTask](https://github.com/Aareevs/InnoVedam-Hackathon-Youva)  |
-| 🪟 **Microsoft XP Portfolio** | A nostalgic recreation of Windows XP as a portfolio. | [View Details](https://github.com/Aareevs/Aareev-Microsoft-XP-Portfolio) |
-|    🍎 **MacOS Recreation**    |    A web-based recreation of the macOS interface.    |     [Experience MacOS](https://github.com/Aareevs/MacOS-Recreation)      |
+<div align="center">
+
+|          **Project**          |                   **Description**                    |                                                                     **Link**                                                                      |
+| :---------------------------: | :--------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------: |
+|       ⏳ **ChronoTask**       | A productivity focused task manager for hackathons.  |          [**Repository**](https://github.com/Aareevs/InnoVedam-Hackathon-Youva)<br/>[**Live Demo**](https://chronotask-phi.vercel.app/)           |
+| 🪟 **Microsoft XP Portfolio** | A nostalgic recreation of Windows XP as a portfolio. | [**Repository**](https://github.com/Aareevs/Aareev-Microsoft-XP-Portfolio)<br/>[**Live Demo**](https://aareev-microsoft-xp-portfolio.vercel.app/) |
+|    🍎 **MacOS Recreation**    |    A web-based recreation of the macOS interface.    |              [**Repository**](https://github.com/Aareevs/MacOS-Recreation)<br/>[**Live Demo**](https://macos-recreation.vercel.app/)              |
+
+</div>
 
 ---
 

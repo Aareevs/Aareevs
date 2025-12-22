@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hey+there!+My+Name+is+Aareev!;Full-Stack+Developer+%26+Cybersecurity+Enthusiast;Building+Scalable+Backends+%26+Stunning+Frontends;Bug+Bounty+%7C+Open-Source+%7C+Problem+Solving" alt="Typing SVG" />
+  <h1>Hey There! My Name is Aareev!</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Creative+Thinker;Problem+Solver" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -10,6 +11,10 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
+
+<p align="center">
+  <b>Come learn more about me on my website - <a href="https://aareevsrinivasan.com" target="_blank">aareevsrinivasan.com</a></b>
+</p>
 
 <br />
 
@@ -23,7 +28,7 @@
       <ul>
         <li>🎓 <b>First year Engineering Student</b></li>
         <li>💻 Passionate about <b>Full-Stack Development</b></li>
-        <li>🎨 Speciality lies in <b>Front-End Development</b></li>
+        <li>🎨 Speciality lies in <b>Front-End Development & UI/UX Design</b></li>
         <li>🤖 Exploring <b>Artificial Intelligence & Robotics</b></li>
         <li>📘 Currently learning about <b>TypeScript</b></li>
         <li>⚡ Love to <b>vibe code</b>, solve problems, fix bugs and more</li>
@@ -124,10 +129,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aareevs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aareevs&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aareevs&theme=tokyonight&hide_border=true&background=00000000" height="180" alt="streak graph" />
 </div>
 
 ---

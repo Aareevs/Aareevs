@@ -38,9 +38,6 @@
         <li>⚡ Love to <b>vibe code</b>, solve problems, fix bugs and more</li>
       </ul>
     </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100%" alt="Coding Gif" />
-    </td>
   </tr>
 </table>
 

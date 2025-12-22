@@ -139,5 +139,5 @@
 ---
 
 <p align="center">
-  <sub>⚡ Building, breaking, and learning through code.</sub>
+  <sub> Learning and Exploring. One Step at a Time. </sub>
 </p>

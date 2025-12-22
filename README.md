@@ -12,8 +12,12 @@
   </a>
 </div>
 
+<br />
+
 <p align="center">
-  <b>Come learn more about me on my website - <a href="https://aareevsrinivasan.com" target="_blank">aareevsrinivasan.com</a></b>
+  <a href="https://aareevsrinivasan.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-aareevsrinivasan.com-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
 </p>
 
 <br />

@@ -46,6 +46,10 @@
 ### 🚀 **Featured Projects**
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>
+
+<div align="center">
 
 |          **Project**          |                   **Description**                    |                                                                     **Link**                                                                      |
 | :---------------------------: | :--------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -53,6 +57,10 @@
 | 🪟 **Microsoft XP Portfolio** | A nostalgic recreation of Windows XP as a portfolio. | [**Repository**](https://github.com/Aareevs/Aareev-Microsoft-XP-Portfolio)<br/>[**Live Demo**](https://aareev-microsoft-xp-portfolio.vercel.app/) |
 |    🍎 **MacOS Recreation**    |    A web-based recreation of the macOS interface.    |              [**Repository**](https://github.com/Aareevs/MacOS-Recreation)<br/>[**Live Demo**](https://macos-recreation.vercel.app/)              |
 
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </div>
 
 ---

@@ -157,3 +157,7 @@
 <p align="center">
   <sub> Learning and Exploring. One Step at a Time. </sub>
 </p>
+
+<br>
+img src="https://komarev.com/ghpvc/?username=Aareevs&style=flat-square&color=E23636" alt="Profile Views" />
+</br>

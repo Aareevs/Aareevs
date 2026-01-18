@@ -140,8 +140,16 @@
 ### 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aareevs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aareevs&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="languages graph" />
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=Aareevs&show_icons=true&bg_color=0d1117&title_color=E23636&text_color=ffffff&icon_color=004DAA&border_color=E23636&rank_icon=github&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Aareevs&layout=compact&bg_color=0d1117&title_color=E23636&text_color=ffffff&icon_color=004DAA&border_color=E23636&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---

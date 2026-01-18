@@ -159,5 +159,5 @@
 </p>
 
 <br>
-img src="https://komarev.com/ghpvc/?username=Aareevs&style=flat-square&color=E23636" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Aareevs&style=flat-square&color=E23636" alt="Profile Views" />
 </br>

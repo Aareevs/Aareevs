@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Hey There! My Name is Aareev!</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Creative+Thinker;Problem+Solver" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E23636,100:004DAA&height=220&section=header&text=Aareev%20Srinivasan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlign=50" width="100%" />
 </div>
 
 <div align="center">

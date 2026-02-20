@@ -1,4 +1,4 @@
-<div align="center">
+ght<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E23636,100:004DAA&height=220&section=header&text=Aareev%20Srinivasan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlign=50" width="100%" />
 </div>
 
@@ -120,7 +120,7 @@
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" />
       </a>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="40"/>
       <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" height="40" />
       <img src="https://img.shields.io/badge/Antigravity-8A2BE2?style=flat-square&logoColor=white" height="40" />
     </td>

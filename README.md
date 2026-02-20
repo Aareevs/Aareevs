@@ -108,7 +108,7 @@ ght<div align="center">
        <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" />
       </a>
-      <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" height="40" />
+      <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" height="48" />
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="40" />
       <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black" height="40" />
       <img src="https://img.shields.io/badge/MediaPipe-00aabb?style=flat-square&logoColor=white" height="40" />

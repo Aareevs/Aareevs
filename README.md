@@ -131,7 +131,7 @@ ght<div align="center">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=figma,ps,ai,au,ae&theme=dark" />
       </a>
-      <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="40"/>
       <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" height="40" />
       <img src="https://img.shields.io/badge/Animate-330000?style=flat-square&logo=adobeanimate&logoColor=white" height="40" />
     </td>

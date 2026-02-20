@@ -120,6 +120,7 @@
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" />
       </a>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
       <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" height="40" />
       <img src="https://img.shields.io/badge/Antigravity-8A2BE2?style=flat-square&logoColor=white" height="40" />
     </td>

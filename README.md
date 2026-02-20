@@ -1,4 +1,4 @@
-ght<div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E23636,100:004DAA&height=220&section=header&text=Aareev%20Srinivasan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlign=50" width="100%" />
 </div>
 

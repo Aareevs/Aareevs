@@ -129,7 +129,7 @@
     <td align="center" width="120"><b>Design</b></td>
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=figma,ps,ai,au,ae&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=figma,ps,ai,ae&theme=dark" />
       </a>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="40"/>
       <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" height="40" />

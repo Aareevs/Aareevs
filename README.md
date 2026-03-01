@@ -57,7 +57,7 @@
 | :---------------------------: | :--------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------: |
 |       ⏳ **ChronoTask**       | A productivity focused task manager for hackathons.  |          [**Repository**](https://github.com/Aareevs/InnoVedam-Hackathon-Youva)<br/>[**Live Demo**](https://chronotask-phi.vercel.app/)           |
 | 🪟 **Microsoft XP Portfolio** | A nostalgic recreation of Windows XP as a portfolio. | [**Repository**](https://github.com/Aareevs/Aareev-Microsoft-XP-Portfolio)<br/>[**Live Demo**](https://aareev-microsoft-xp-portfolio.vercel.app/) |
-|    🍎 **MacOS Recreation**    |    A web-based recreation of the macOS interface.    |              [**Repository**](https://github.com/Aareevs/MacOS-Recreation)<br/>[**Live Demo**](https://macos-recreation.vercel.app/)              |
+|    🍎 **Stock Exchange Simulator**    |    A web-based real-time scenario of stock market for tech event.    |              [**Repository**](https://github.com/Aareevs/Stock-Website)<br/>[**Live Demo**](https://vsx-buy-or-bail.vercel.app/)              |
 
 </div>
 

@@ -33,8 +33,8 @@
         <li>💻 Passionate about <b>Full-Stack Development</b></li>
         <li>🎨 Speciality lies in <b>Front-End Development & UI/UX Design</b></li>
         <li>🤖 Exploring <b>Artificial Intelligence & Robotics</b></li>
-        <li>📘 Currently learning about <b>TypeScript</b></li>
-        <li>⚡ Love to <b>vibe code</b>, solve problems, fix bugs and more</li>
+        <li>📘 Currently learning about <b>TypeScript, React & Python</b></li>
+        <li>⚡ Love to <b>code</b>, solve problems, fix bugs and more</li>
       </ul>
     </td>
     <td valign="top" width="40%">
@@ -55,9 +55,9 @@
 
 |          **Project**          |                   **Description**                    |                                                                     **Link**                                                                      |
 | :---------------------------: | :--------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------: |
-|       ⏳ **ChronoTask**       | A productivity focused task manager for hackathons.  |          [**Repository**](https://github.com/Aareevs/InnoVedam-Hackathon-Youva)<br/>[**Live Demo**](https://chronotask-phi.vercel.app/)           |
-| 🪟 **Microsoft XP Portfolio** | A nostalgic recreation of Windows XP as a portfolio. | [**Repository**](https://github.com/Aareevs/Aareev-Microsoft-XP-Portfolio)<br/>[**Live Demo**](https://aareev-microsoft-xp-portfolio.vercel.app/) |
-|    🍎 **Stock Exchange Simulator**    |    A web-based real-time scenario of stock market for tech event.    |              [**Repository**](https://github.com/Aareevs/Stock-Website)<br/>[**Live Demo**](https://vsx-buy-or-bail.vercel.app/)              |
+|       👋🏻 **Vaani Setu**       | Platform that converts sign language output to text/speech.  |          [**Repository**](https://github.com/Aareevs/Vaani-Setu-Website)<br/>[**Live Demo**](https://vaani-setu-website.vercel.app/)           |
+| 🏏 **VPL Auction** | PL Auction Style area where website contains a dashboard and squad list for teams to see and an admin panel for admin to add players up for auction. | [**Repository**](https://github.com/Aareevs/VPL-Auction-Website)<br/>[**Live Demo**](https://vedam-premier-league-vpl.vercel.app/) |
+|    📈 **Stock Exchange Simulator**    |    A web-based real-time scenario of stock market for tech event.    |              [**Repository**](https://github.com/Aareevs/Stock-Website)<br/>[**Live Demo**](https://vsx-buy-or-bail.vercel.app/)              |
 
 </div>
 

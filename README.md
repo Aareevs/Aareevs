@@ -20,7 +20,7 @@
 
 Second-year engineering undergraduate, full-stack developer, and UI/UX designer focused on building scalable web products and clean digital experiences.
 
-- **Venture** — Co-founder, CTO & CMO at **fix**<span style="color: #FD5803;">**karu**</span>
+- **Venture** — Co-founder, CTO & CMO at $\textsf{\textbf{fix\color{#FD5803}karu}}$
 - **Core Focus** — Full-Stack Development & Interface Engineering
 - **Current Stack** — Building with TypeScript and modern web architectures
 - **Future Roadmap** — Exploring applied Artificial Intelligence & Business with an interest to explore robotics in the future

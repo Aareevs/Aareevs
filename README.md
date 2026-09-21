@@ -1,146 +1,93 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E23636,100:004DAA&height=220&section=header&text=Aareev%20Srinivasan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlign=50" width="100%" />
-</div>
+<p align="center">
+  <img src="banner_github.png" alt="Aareev Srinivasan" width="100%" />
+</p>
 
-<div align="center">
+<p align="center">
+  <a href="https://aareevsrinivasan.com" target="_blank">
+    <img src="https://img.shields.io/badge/aareevsrinivasan.com-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
   <a href="https://www.linkedin.com/in/aareev-srinivasan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDE0bS0uNSAxNS41di01LjNhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS44NC41Mi0yLjI4IDEuM3YtMS4xMWgtMi43OXY4LjM3aDIuNzl2LTQuOTNjMC0uNzcuNjItMS40IDEuMzktMS40YTEuNCAxLjQgMCAwIDEgMS40IDEuNHY0LjkzaDIuNzVNNi40NiA4Ljc2YTEuNjcgMS42NyAwIDEgMCAwLTMuMzQgMS42NyAxLjY3IDAgMCAwIDAgMy4zNG0xLjM5IDkuNzR2LTguMzdINS4wN3Y4LjM3aDIuNzh6Ii8%2BPC9zdmc%2B&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:aareevs@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
-
-<br />
-
-<p align="center">
-  <a href="https://aareevsrinivasan.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-aareevsrinivasan.com-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
 </p>
 
-<br />
+---
+
+### About Me
+
+Second-year engineering undergraduate, full-stack developer, and UI/UX designer focused on building scalable web products and clean digital experiences.
+
+- **Venture** — Co-founder, CTO & CMO at **fix**<span style="color: #FD5803;">**karu**</span>
+- **Core Focus** — Full-Stack Development & Interface Engineering
+- **Current Stack** — Building with TypeScript and modern web architectures
+- **Future Roadmap** — Exploring applied Artificial Intelligence & Business with an interest to explore robotics in the future
 
 ---
 
-### 👨‍💻 **About Me**
+## Projects
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td valign="top" width="60%">
-      <ul>
-        <li>🎓 <b>First year Engineering Student</b></li>
-        <li>💻 Passionate about <b>Full-Stack Development</b></li>
-        <li>🎨 Speciality lies in <b>Front-End Development & UI/UX Design</b></li>
-        <li>🤖 Exploring <b>Artificial Intelligence & Robotics</b></li>
-        <li>📘 Currently learning about <b>TypeScript, React & Python</b></li>
-        <li>⚡ Love to <b>code</b>, solve problems, fix bugs and more</li>
-      </ul>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/Aareevs/Vaani-Setu-Website">Vaani Setu Website</a> &nbsp;<a href="https://vaani-setu-website.vercel.app" title="Live Demo">↗</a>
+      </h3>
+      <p>Platform that converts sign language output to text/speech.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/-MediaPipe-00AABB?style=flat-square&logoColor=white" />
+      </p>
     </td>
-    <td valign="top" width="40%">
-      <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/Aareevs/Vaani-Setu-Mobile-App">Vaani Setu App</a>
+      </h3>
+      <p>Mobile Application of Vaani Setu.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/Aareevs/VPL-Auction-Website">VPL Auction</a> &nbsp;<a href="https://vedam-premier-league-vpl.vercel.app" title="Live Demo">↗</a>
+      </h3>
+      <p>IPL Auction Style area where website contains a dashboard and squad list for teams to see and an admin panel for admin to add players up for auction.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/Aareevs/Aareevs-Windows-10-OS-Portfolio">My Portfolio</a> &nbsp;<a href="https://aareevsrinivasan.com" title="Live Website">↗</a>
+      </h3>
+      <p>My Portfolio website that has the characterestics of a classic Windows 10 Experience.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
     </td>
   </tr>
 </table>
 
----
-
-### 🚀 **Featured Projects**
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-</div>
-
-<div align="center">
-
-|          **Project**          |                   **Description**                    |                                                                     **Link**                                                                      |
-| :---------------------------: | :--------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------: |
-|       👋🏻 **Vaani Setu**       | Platform that converts sign language output to text/speech.  |          [**Repository**](https://github.com/Aareevs/Vaani-Setu-Website)<br/>[**Live Demo**](https://vaani-setu-website.vercel.app/)           |
-| 🏏 **VPL Auction** | PL Auction Style area where website contains a dashboard and squad list for teams to see and an admin panel for admin to add players up for auction. | [**Repository**](https://github.com/Aareevs/VPL-Auction-Website)<br/>[**Live Demo**](https://vedam-premier-league-vpl.vercel.app/) |
-|    📈 **Stock Exchange Simulator**    |    A web-based real-time scenario of stock market for tech event.    |              [**Repository**](https://github.com/Aareevs/Stock-Website)<br/>[**Live Demo**](https://vsx-buy-or-bail.vercel.app/)              |
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-</div>
+<br/>
 
 ---
 
-### ⚡ **Tech Stack**
+## Technical Stack
 
-<table align="center">
-  <tr>
-    <td align="center" width="120"><b>Languages</b></td>
-    <td align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,java,js,py&theme=dark" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120"><b>Frontend</b></td>
-    <td align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,vercel&theme=dark" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120"><b>Backend</b></td>
-    <td align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,supabase&theme=dark" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120"><b>Database</b></td>
-    <td align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120"><b>AI / ML</b></td>
-    <td align="center">
-       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" />
-      </a>
-      <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" height="48" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="40" />
-      <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black" height="40" />
-      <img src="https://img.shields.io/badge/MediaPipe-00aabb?style=flat-square&logoColor=white" height="40" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120"><b>Tools</b></td>
-    <td align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" />
-      </a>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="40"/>
-      <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" height="40" />
-      <img src="https://img.shields.io/badge/Antigravity-8A2BE2?style=flat-square&logoColor=white" height="40" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120"><b>Design</b></td>
-    <td align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=figma,ps,ai,ae&theme=dark" />
-      </a>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="40"/>
-      <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" height="40" />
-      <img src="https://img.shields.io/badge/Animate-330000?style=flat-square&logo=adobeanimate&logoColor=white" height="40" />
-    </td>
-  </tr>
-</table>
+| Currently know | I'm learning |
+| :---: | :---: |
+| <img src="https://skills-icons.vercel.app/api/icons?i=java,py,js,git,github,react,express,mongodb,mysql,figma,vscode,supabase,docker,huggingface&perline=7" /> | <img src="https://skills-icons.vercel.app/api/icons?i=rust,go,framer,redis,aws&perline=5" /> |
 
 ---
 
-### 📊 **GitHub Stats**
+### **GitHub Stats**
 
 <div align="center">
   <table border="0">
@@ -158,7 +105,7 @@
 ---
 
 <p align="center">
-  <sub> Learning and Exploring. One Step at a Time. </sub>
+  <sub> “Simplicity is the soul of efficiency.” - Austin Freeman </sub>
 </p>
 
 <div align="center">

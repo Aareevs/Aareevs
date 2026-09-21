@@ -18,10 +18,10 @@
 
 ### About Me
 
-Second-year engineering undergraduate, full-stack developer, and UI/UX designer focused on building scalable web products and clean digital experiences.
+Second-year engineering undergraduate, full-stack developer, and UI/UX designer focused on building scalable web products and clean digital experiences. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- **Venture** — Co-founder, CTO & CMO at $\textsf{\textbf{fix\color{#FD5803}karu}}$
-- **Core Focus** — Full-Stack Development & Interface Engineering
+- **Venture** — Working on and am the Co-founder, CTO & CMO at $\small\textsf{\textbf{fix\color{#FD5803}karu}}$
+- **Core Focus** — Full-Stack Development, DSA & Interface Engineering
 - **Current Stack** — Building with TypeScript and modern web architectures
 - **Future Roadmap** — Exploring applied Artificial Intelligence & Business with an interest to explore robotics in the future
 
@@ -93,10 +93,10 @@ Second-year engineering undergraduate, full-stack developer, and UI/UX designer 
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=Aareevs&show_icons=true&bg_color=0d1117&title_color=E23636&text_color=ffffff&icon_color=004DAA&border_color=E23636&rank_icon=github&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=Aareevs&show_icons=true&bg_color=0d1117&title_color=E23636&text_color=ffffff&icon_color=004DAA&border_color=E23636&rank_icon=github&count_private=true&include_all_commits=true" height="190" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Aareevs&layout=compact&bg_color=0d1117&title_color=E23636&text_color=ffffff&icon_color=004DAA&border_color=E23636&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Aareevs&layout=compact&bg_color=0d1117&title_color=E23636&text_color=ffffff&icon_color=004DAA&border_color=E23636&hide_border=true&langs_count=10" height="190" alt="Top Languages" />
       </td>
     </tr>
   </table>

@@ -55,11 +55,12 @@ Second-year engineering undergraduate, full-stack developer, and UI/UX designer 
   <tr>
     <td width="50%" valign="top">
       <h3>
-        <a href="https://github.com/Aareevs/VPL-Auction-Website">VPL Auction</a> &nbsp;<a href="https://vedam-premier-league-vpl.vercel.app" title="Live Demo">↗</a>
+        <a href="https://github.com/Aareevs/AI_Assistant_Fuli">Fuli</a>
       </h3>
-      <p>IPL Auction Style area where website contains a dashboard and squad list for teams to see and an admin panel for admin to add players up for auction.</p>
+      <p>Autonomous macOS desktop operator and hands-free voice assistant for system automation and in-place browser control.</p>
       <p>
-        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">

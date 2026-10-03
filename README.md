@@ -57,7 +57,7 @@ Second-year engineering undergraduate, full-stack developer, and UI/UX designer 
       <h3>
         <a href="https://github.com/Aareevs/AI_Assistant_Fuli">Fuli</a>
       </h3>
-      <p>Autonomous macOS desktop operator and hands-free voice assistant for system automation and in-place browser control.</p>
+      <p>Autonomous cross-platform desktop operator and hands-free voice assistant running across macOS, Windows, and Linux.</p>
       <p>
         <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
@@ -82,9 +82,13 @@ Second-year engineering undergraduate, full-stack developer, and UI/UX designer 
 
 ## Technical Stack
 
+<div align="center">
+
 | Currently know | I'm learning |
 | :---: | :---: |
-| <img src="https://skills-icons.vercel.app/api/icons?i=java,py,js,git,github,react,express,mongodb,mysql,figma,vscode,supabase,docker,huggingface&perline=7" /> | <img src="https://skills-icons.vercel.app/api/icons?i=rust,go,framer,redis,aws&perline=5" /> |
+| <img src="https://skills-icons.vercel.app/api/icons?i=java,py,js,git,github,react,express,mongodb,mysql,figma,vscode,supabase,docker,huggingface&perline=7" /> | <img src="https://skills-icons.vercel.app/api/icons?i=rust,go,csharp,framer,redis,aws&perline=6" /> |
+
+</div>
 
 ---
 

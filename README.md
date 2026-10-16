@@ -16,13 +16,14 @@
 
 ---
 
-### About Me
+### About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 
-Second-year engineering undergraduate, full-stack developer, and UI/UX designer focused on building scalable web products and clean digital experiences. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+Second-year engineering undergraduate, full-stack developer, and UI/UX designer focused on building scalable web products and clean digital experiences. 
 
 - **Venture** — Working on and am the Co-founder, CTO & CMO at $\small\textsf{\textbf{fix\color{#FD5803}karu}}$
 - **Core Focus** — Full-Stack Development, DSA & Interface Engineering
-- **Current Stack** — Building with TypeScript and modern web architectures
+- **Current Stack** — Building with Go, Rust and modern web architectures with TypeScript & JavaScript
 - **Future Roadmap** — Exploring applied Artificial Intelligence & Business with an interest to explore robotics in the future
 
 ---
@@ -30,6 +31,28 @@ Second-year engineering undergraduate, full-stack developer, and UI/UX designer 
 ## Projects
 
 <table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/Aareevs/Kestrel-CLI">Kestrel CLI</a>
+      </h3>
+      <p>Local-first incident intelligence CLI: isolates root causes, correlates cascading failures with event evidence, and verifies fixes.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/-MCP-7C3AED?style=flat-square&logo=anthropic&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/Aareevs/AI_Assistant_Fuli">Fuli</a>
+      </h3>
+      <p>Autonomous cross-platform desktop operator and hands-free voice assistant running across macOS, Windows, and Linux.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+      </p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>
@@ -49,28 +72,6 @@ Second-year engineering undergraduate, full-stack developer, and UI/UX designer 
       <p>
         <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
         <img src="https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>
-        <a href="https://github.com/Aareevs/AI_Assistant_Fuli">Fuli</a>
-      </h3>
-      <p>Autonomous cross-platform desktop operator and hands-free voice assistant running across macOS, Windows, and Linux.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>
-        <a href="https://github.com/Aareevs/Aareevs-Windows-10-OS-Portfolio">My Portfolio</a> &nbsp;<a href="https://aareevsrinivasan.com" title="Live Website">↗</a>
-      </h3>
-      <p>My Portfolio website that has the characterestics of a classic Windows 10 Experience.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -105,6 +106,8 @@ Second-year engineering undergraduate, full-stack developer, and UI/UX designer 
       </td>
     </tr>
   </table>
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=Aareevs&theme=dark&background=0d1117&hide_border=true&ring=38bdf8&fire=fd5803&currStreakLabel=ffffff" alt="GitHub Streak" />
 </div>
 
 ---

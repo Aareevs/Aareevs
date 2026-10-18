@@ -87,7 +87,7 @@ Second-year engineering undergraduate, full-stack developer, and UI/UX designer 
 
 | Currently know | I'm learning |
 | :---: | :---: |
-| <img src="https://skills-icons.vercel.app/api/icons?i=java,py,js,git,github,react,express,mongodb,mysql,figma,vscode,supabase,docker,huggingface&perline=7" /> | <img src="https://skills-icons.vercel.app/api/icons?i=rust,go,csharp,framer,redis,aws&perline=6" /> |
+| <img src="https://skills-icons.vercel.app/api/icons?i=java,py,js,git,github,react,express,mongodb,mysql,figma,claudeai,vscode,supabase,docker,huggingface&perline=7" /> | <img src="https://skills-icons.vercel.app/api/icons?i=rust,go,csharp,framer,redis,aws&perline=6" /> |
 
 </div>
 
@@ -107,7 +107,7 @@ Second-year engineering undergraduate, full-stack developer, and UI/UX designer 
     </tr>
   </table>
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=Aareevs&theme=dark&background=0d1117&hide_border=true&ring=38bdf8&fire=fd5803&currStreakLabel=ffffff" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Aareevs&theme=dark&background=0d1117&hide_border=true&ring=38bdf8&fire=fd5803&currStreakLabel=ffffff&timezone=Asia/Kolkata" alt="GitHub Streak" />
 </div>
 
 ---

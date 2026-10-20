@@ -34,7 +34,7 @@ Second-year engineering undergraduate, full-stack developer, and UI/UX designer 
   <tr>
     <td width="50%" valign="top">
       <h3>
-        <a href="https://github.com/Aareevs/Kestrel-CLI">Kestrel CLI</a>
+        <a href="https://github.com/Aareevs/Kestrel-CLI">Kestrel CLI</a> &nbsp;<a href="https://kestrel-cli.vercel.app/" title="Live Website">↗</a>
       </h3>
       <p>Local-first incident intelligence CLI: isolates root causes, correlates cascading failures with event evidence, and verifies fixes.</p>
       <p>

@@ -99,10 +99,10 @@ Second-year engineering undergraduate, full-stack developer, and UI/UX designer 
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=Aareevs&show_icons=true&bg_color=0d1117&title_color=E23636&text_color=ffffff&icon_color=004DAA&border_color=E23636&rank_icon=github&count_private=true&include_all_commits=true" height="190" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-pi-six.vercel.app/api?username=Aareevs&show_icons=true&bg_color=0d1117&title_color=E23636&text_color=ffffff&icon_color=004DAA&border_color=E23636&rank_icon=github&count_private=true&include_all_commits=true" height="190" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Aareevs&layout=compact&bg_color=0d1117&title_color=E23636&text_color=ffffff&icon_color=004DAA&border_color=E23636&hide_border=true&langs_count=10" height="190" alt="Top Languages" />
+        <img src="https://github-readme-stats-pi-six.vercel.app/api/top-langs/?username=Aareevs&layout=compact&bg_color=0d1117&title_color=E23636&text_color=ffffff&icon_color=004DAA&border_color=E23636&hide_border=true&langs_count=10" height="190" alt="Top Languages" />
       </td>
     </tr>
   </table>

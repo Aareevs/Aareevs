@@ -18,13 +18,34 @@
 
 ### About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 
-
 Second-year engineering undergraduate, full-stack developer, and UI/UX designer focused on building scalable web products and clean digital experiences. 
 
 - **Venture** — Working on and am the Co-founder, CTO & CMO at $\small\textsf{\textbf{fix\color{#FD5803}karu}}$
 - **Core Focus** — Full-Stack Development, DSA & Interface Engineering
-- **Current Stack** — Building with Go, Rust and modern web architectures with TypeScript & JavaScript
+- **Current Stack** — Building with Go, Rust, PostGRES and modern web architectures with TypeScript & JavaScript
 - **Future Roadmap** — Exploring applied Artificial Intelligence & Business with an interest to explore robotics in the future
+
+---
+
+### Venture Details
+
+<table align="center" width="100%">
+  <tr>
+    <td width="28%" align="center" valign="middle">
+      <a href="https://www.fixkaru.com" target="_blank">
+        <img src="fixkaru_logo.png" alt="fixkaru logo" width="160" />
+      </a>
+    </td>
+    <td width="72%" valign="middle">
+      <h3>fixkaru</h3>
+      <p>On-demand doorstep phone repair with upfront pricing, verified technicians, and phone fixed right in front of you.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Role-Co--founder%20%7C%20CTO%20%26%20CMO-FD5803?style=flat-square" />
+        <img src="https://img.shields.io/badge/Live%20Website-fixkaru.com-0d1117?style=flat-square&logo=google-chrome&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -44,6 +65,19 @@ Second-year engineering undergraduate, full-stack developer, and UI/UX designer 
     </td>
     <td width="50%" valign="top">
       <h3>
+        <a href="https://github.com/Aareevs/Nyx">Nyx</a> &nbsp;<a href="https://github.com/Aareevs/Nyx/releases/latest" title="Download Release">↗</a>
+      </h3>
+      <p>Native macOS menu bar utility and Dynamic Island for Apple Silicon with modular widget architecture.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
+        <img src="https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white" />
+        <a href="https://github.com/Aareevs/Nyx/releases/latest"><img src="https://img.shields.io/badge/Release-v1.0.0-2ea043?style=flat-square" alt="Release v1.0.0" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>
         <a href="https://github.com/Aareevs/AI_Assistant_Fuli">Fuli</a>
       </h3>
       <p>Autonomous cross-platform desktop operator and hands-free voice assistant running across macOS, Windows, and Linux.</p>
@@ -52,26 +86,15 @@ Second-year engineering undergraduate, full-stack developer, and UI/UX designer 
         <img src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>
-        <a href="https://github.com/Aareevs/Vaani-Setu-Website">Vaani Setu Website</a> &nbsp;<a href="https://vaani-setu-website.vercel.app" title="Live Demo">↗</a>
+        Vaani Setu &nbsp;<a href="https://vaani-setu-website.vercel.app" title="Live Web Platform">↗</a>
       </h3>
-      <p>Platform that converts sign language output to text/speech.</p>
+      <p>Assistive gesture-to-speech platform built across both a <b>Web Platform</b> and a native <b>Android Mobile App</b>.</p>
       <p>
-        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <a href="https://github.com/Aareevs/Vaani-Setu-Website" title="Web Repository"><img src="https://img.shields.io/badge/Web-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /></a>
+        <a href="https://github.com/Aareevs/Vaani-Setu-Mobile-App" title="Mobile App Repository"><img src="https://img.shields.io/badge/Mobile%20App-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" /></a>
         <img src="https://img.shields.io/badge/-MediaPipe-00AABB?style=flat-square&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>
-        <a href="https://github.com/Aareevs/Vaani-Setu-Mobile-App">Vaani Setu App</a>
-      </h3>
-      <p>Mobile Application of Vaani Setu.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -87,7 +110,7 @@ Second-year engineering undergraduate, full-stack developer, and UI/UX designer 
 
 | Currently know | I'm learning |
 | :---: | :---: |
-| <img src="https://skills-icons.vercel.app/api/icons?i=java,py,js,git,github,react,express,mongodb,mysql,figma,claudeai,vscode,supabase,docker,huggingface&perline=7" /> | <img src="https://skills-icons.vercel.app/api/icons?i=rust,go,csharp,framer,redis,aws&perline=6" /> |
+| <img src="https://skills-icons.vercel.app/api/icons?i=java,python,js,go,git,github,react,express,mongodb,mysql,supabase,docker,vscode,figma,claudeai,huggingface&perline=8" /> | <img src="https://skills-icons.vercel.app/api/icons?i=rust,swift,csharp,framer,redis,aws&perline=6" /> |
 
 </div>
 
